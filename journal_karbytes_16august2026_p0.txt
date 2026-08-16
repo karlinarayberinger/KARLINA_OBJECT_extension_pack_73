@@ -56,6 +56,8 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/github_infor
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/github_informationcrystals_activity_according_to_public_16august2026_p1.png
 
+https://raw.githubusercontent.com/informationcrystals/projects/main/hubble_deep_space_photograph_03september2003_to_16january2004.jpg
+
 https://raw.githubusercontent.com/informationcrystals/projects/main/index.html
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_11august2026_p0.txt
@@ -75,6 +77,8 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karb
 https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_15august2026_p0.txt
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_16august2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_16august2026_p1.txt
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_belly_11august2026_p0.jpg
 
@@ -135,6 +139,8 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thi
 https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_12august2026_p2.mp4
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_12august2026_p3.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_18july2026_p3.mp4
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/patreon_only_karbytes_posts_streak_16august2026_p0.png
 
@@ -197,5 +203,7 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web
 https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_journal_karbytes_15august2026_a.html
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_journal_karbytes_15august2026_b.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_journal_karbytes_16august2026_a.html
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_is_stuck_in_the_big_green_thing.html
