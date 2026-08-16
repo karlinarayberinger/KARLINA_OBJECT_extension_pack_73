@@ -1,0 +1,35 @@
+/**
+ * file: journal_karbytes_13august2026_p1.txt
+ * type: plain-text
+ * date: 13_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The purpose of this journal entry is to explain what the diagram at the following Uniform Resource Locator is meant to convey:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/karbytes_file_generation_workflow_13august2026.png
+
+* * *
+
+// karbytes_file_generation_workflow_13august2026.png
+
+The diagram shows three nested ovals with the innermost oval having a black fill color while the two outer ovals have a purplish white fill color. (The image background is black in order to suggest the unconditional presence of a ubiquitous featureless void encompassing all phenomena and permeating all phenomena).
+
+The two outermost ovals have a purplish white fill color in order to denote that those ovals represent allocations of the surface web. The innermost oval has a black fill color in order to denote that the oval represents an allocation of the deep web. 
+
+(The surface web encompasses all files hosted on the World Wide Web which are fully accessible to the public (without having to provide any login credentials) and which can be accessed using all mainstream web browsers. (The dark web, by contrast, encompasses files which may or may not be publicly accessible and which require a special dark web browser such as The Onion Router browser in order to access those files). Meanwhile, the deep web encompasses all files hosted on the World Wide Web which are not immediately accessible to the public and which are relegated to networks requiring user login credentials in order to access those files).
+
+The innermost oval and the oval which that innermost oval is nested inside of both have green outlines in order to denote that those ovals represent GitHub repositories owned by the GitHub user account named @informationcrystals. (In the diagram, the word @informationcrystals is highlighted green in correspondance with that implication).
+
+The outermost oval has an orange outline in order to denote that the oval represents public GitHub repositories owned by the GitHub user account named @karlinarayberinger. (In the diagram, the word @karlinarayberinger is highlighted orange in correspondance with that implication).
+
+The innermost oval represents some natural number of private GitHub repositories owned by @informationcrystals for the purpose of generating files which may or may not eventually be published on the public web. 
+
+(karbytes uses such deep web GitHub repositories to draft prospective KARBYTES files in a manner which hides the date and time at which karbytes makes changes to those files (and each change to any GitHub-hosted file is logged by the encompassing GitHub repository as a timestamped commit which can be reviewed by anyone who has viewing access to the respective GitHub repository by looking through that GitHub repository's commit history). 
+
+Within the context of karbytes working on KARBYTES, karbytes spends most of its time inside of the deep web (which karbytes also considers to include karbytes' offline activities related to generating and curating prospective KARBYTES files. Hence, it could be said that karbytes is rooted in the deep web and that where karbytes essentially lives is the deep web. Taken even further, it could be said that karbytes is permanently wedged in the deep web and cannot ever fully leave it. Such entrenchment in the deep web can be visualized as karbytes' lower body and abdomen wedged in the ground while karbytes upper body sometimes reaches beyond the hole in the ground which karbytes is stuck inside of. Such reaching beyond the hole takes the form of karbytes publishing and modifying drafts of prospective KARBYTES files on the public web. Eventually, all KARBYTES files become immutable and irrevocably stored on the public web (especially by being saved to the WayBack Machine))).
+
+Overall, the diagram is meant to convey the workflow for how a file becomes part of the canon KARBYTES starting as a draft file inside of a private @informationcrystals GitHub repository and then, when karbytes is ready to release it to the surface web, karbytes moves that file out of the private GitHub repository and into the only public @informationcrystals GitHub repository (and that public GitHub repository is named projects). Finally, after the projects repository seems complete enough for karbytes to incorporate into the canon KARBYTES, karbytes moves those files in projects into the latest open micro-directory GitHub repository on the @karlinarayberinger GitHub account. Such a micro-directory GitHub repository is the final destination for those files and the repository's name starts with KARLINA_OBJECT_extension_pack_. The [n] part of the diagram implies some nonnegative integer index number associated with the latest open micro-directory. Within a year of being created, each micro-directory becomes finalized (which means that its respective public @karlinarayberinger GitHub repository becomes archived (i.e. closed to further changes)).
+
+(Note that the language in this document specifying that files are moved from one GitHub repository into another GitHub repository is meant to imply that those files are not merely copied but, instead, that the copied files in the original GitHub repository are deleted. Hence, when all the files in projects are moved to the latest open KARBYTES micro-directory GitHub repository, the projects GitHub repository becomes empty (though, in order to avoid keeping the moved files' commit history public after those files become officially incorporated into the canon KARBYTES, karbytes renames the projects repository and then sets that repository to archived and private. Then, immediately after that, karbytes creates a new empty projects repository with nothing in it other than a placeholder public domain LICENSE file and a mostly empty commit history). The empty projects GitHub repository remains on standby as a future staging area for the next batch of prospective KARBYTES files to be incorporated into the canon KARBYTES in as few public commits as possible (especially on the @karlinarayberinger GitHub account)).

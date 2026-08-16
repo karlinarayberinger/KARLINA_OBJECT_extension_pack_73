@@ -1,0 +1,82 @@
+/**
+ * file: chatgpt_karbytes_15august2026_p1.txt
+ * type: plain-text
+ * date: 15_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 14_AUGUST_2026 and 11:59PM Pacific Standard Time on 15_AUGUST_2026.
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_15august2026_a/
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14august2026_c/
+
+* * *
+
+karbytes:
+
+[uploaded_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/journal_karbytes_14august2026_p1.txt]
+
+Check to see if there are any discrepancies in the plain-text file such as incorrect video indexes. 
+
+ChatGPT:
+
+[Worked for 1m 15s]
+
+I found no incorrect video indexes. The 23-video structure is internally consistent:
+
+* `video_0`–`video_18` correspond exactly to `karbytes_thinking_11august2026_p0.mp4`–`p18.mp4`.
+
+* `video_19`–`video_22` correspond exactly to `karbytes_thinking_12august2026_p0.mp4`–`p3.mp4`.
+
+* Every video name matches its URL filename.
+
+* No video indexes or filename indexes are missing or duplicated.
+
+* All 23 videos have a transcription heading.
+
+* Node indexes are continuous from `node[-37]` through `node[22]`.
+
+Definite discrepancies:
+
+* Line 441: `hhttps://karbytesforlifeblog.wordpress.com/pig_gorl/` should begin with `https://`.
+
+* Line 764: `(relevant_plain-text: ...)` is inconsistent with the otherwise-used label `(relevant_plain-text_file: ...)`.
+
+* Line 698: `The Borrow` should presumably be `The Burrow`.
+
+* Line 882: `henever` should be `whenever`.
+
+* Line 876: `cloud later` should almost certainly be `cloud layer`.
+
+* Line 351: `capacitated permanently` appears to reverse the intended meaning; the surrounding context indicates `incapacitated permanently`.
+
+* Line 165: an opening parenthesis before `(because it's too little money...` is never closed.
+
+Likely transcription/grammar discrepancies worth checking against the audio:
+
+* Line 161: `I'm in the middle of to trying` → probably `I'm in the middle of trying`.
+
+* Line 225: `unnecessarily destructive the environment vehicles` → likely `vehicles which are unnecessarily destructive to the environment`.
+
+* Line 638: `So I have keep them a secret` → probably `So I have to keep them a secret`.
+
+* Line 814: `for now on` → `from now on`.
+
+* Line 814: `my negative experiences ... was` → `my negative experiences ... were`.
+
+Possible intentional repetition:
+
+* The URL for `chatgpt_karbytes_10july2026` occurs twice in the nodes list: at `node[-12]` and `node[5]`. Because the list is explicitly presented as a curated narrative sequence, this may be deliberate rather than accidental.
+
+Two items to confirm rather than automatically change:
+
+* Line 736 omits the trailing slash from `https://karbytesforlifeblog.wordpress.com/the_big_green_thing`. The URL will ordinarily still resolve, but it differs from the slash-terminated version used elsewhere.
+
+* The file is named `journal_karbytes_14august2026_p1.txt`, its metadata date is `15_AUGUST_2026`, and its internal title is `KARBYTES_VIDEO_TRANSCRIPTIONS_13AUGUST2026`. Those three dates may represent creation, revision, and transcription dates, but they should be checked if they were intended to agree.
+
+Publication note: line 832 contains a complete residential street address. That may be intentional, but it is worth confirming before public release.
+
+I did not modify the [plain-text file](sandbox:/workspace/scratch/629b37c1efe3/upload/journal_karbytes_14august2026_p1.txt).
+

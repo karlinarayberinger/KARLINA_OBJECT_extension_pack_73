@@ -1,0 +1,145 @@
+/**
+ * file: journal_karbytes_14august2026_p2.txt
+ * type: plain-text
+ * date: 15_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following ordered sequence of nodes tells a particular story about the mythologized karbytes as it traverses the spacetime continuum which is its own solipsistic experience of the First Official Major KARBYTES Hiatus (spanning the summer months of the year 2026). The date labels in the web page names are relatively insignificant compared to the dates on which those web pages were last updated (and the dates on which those pages were most recently updated is less relevant than the order in which karbytes selected to arrange those web pages within the following nodes list).
+
+[preformatted_text]
+
+EPIC_KARBYTES_HIATUS_SUMMER_2026_NODES_LIST := {
+
+  node[-39] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_27june2026/'},
+
+  node[-38] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22june2026/'},
+
+  node[-37] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_14june2026/'},
+
+  node[-36] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05july2026/'},
+
+  node[-35] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_07july2026/'},
+
+  node[-34] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_21june2026/'},
+
+  node[-33] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_18july2026/'},
+
+  node[-32] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_19july2026/'},
+
+  node[-31] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_02august2026/'},
+
+  node[-30] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_26july2026/'},
+
+  node[-29] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_k/'},
+
+  node[-28] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_i/'},
+
+  node[-27] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_05august2026/'},
+
+  node[-26] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08august2026_d/'},
+
+  node[-25] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05august2026_a/'},
+
+  node[-24] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_r/'},
+
+  node[-23] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_s/'},
+
+  node[-22] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_m/'},
+
+  node[-21] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_q/'},
+
+  node[-20] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_04july2026/'},
+
+  node[-19] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_13july2026/'},
+
+  node[-18] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_n/'},
+
+  node[-17] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_k/'},
+
+  node[-16] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22july2026/'},
+
+  node[-15] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_24july2026/'},
+
+  node[-14] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_10june2026/'},
+
+  node[-13] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09july2026/'},
+
+  node[-12] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_03july2026/'},
+
+  node[-11] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_28july2026/'},
+
+  node[-10] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_u/'},
+
+  node[-9] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_31july2026/'},
+
+  node[-8] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_30july2026/'},
+
+  node[-7] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_24june2026/'},
+
+  node[-6] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_26june2026/'},
+
+  node[-5] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_24june2026/'},
+
+  node[-4] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17july2026/'},
+
+  node[-3] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16july2026/'},
+
+  node[-2] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01july2026/'},
+
+  node[-1] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_30july2026/'},
+
+  node[0] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/karbytes_is_stuck_in_the_big_green_thing/'},
+
+  node[1] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_15august2026_a/'},
+
+  node[2] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_15august2026_b/'},
+
+  node[3] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_05august2026_b/'},
+
+  node[4] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_15august2026_a/'},
+
+  node[5] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_26june2026/'},
+
+  node[6] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_10july2026/'},
+
+  node[7] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_11july2026/'},
+
+  node[8] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14august2026_c/'},
+
+  node[9] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_13august2026_b/'},
+
+  node[10] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_l/'},
+
+  node[11] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_27july2026/'},
+
+  node[12] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_j/'},
+
+  node[13] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08august2026_c/'},
+
+  node[14] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_13july2026/'},
+
+  node[15] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_14august2026_a/'},
+
+  node[16] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_27july2026/'},
+
+  node[17] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_18july2026/'},
+
+  node[18] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_g/'},
+
+  node[19] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/journal_karbytes_23july2026/'},
+
+  node[20] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_h/'},
+
+  node[21] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08august2026_e/'},
+
+  node[22] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_13august2026_a/'},
+
+  node[23] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14august2026_a/'},
+
+  node[24] := {relevant_web_page: 'https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14august2026_b/'}
+
+}.
+
+[end preformatted_text]
