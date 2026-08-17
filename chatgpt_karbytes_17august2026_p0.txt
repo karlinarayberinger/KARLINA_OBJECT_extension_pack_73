@@ -1,0 +1,108 @@
+/**
+ * file: chatgpt_karbytes_17august2026_p0.txt
+ * type: plain-text
+ * date: 17_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 16_AUGUST_2026 and 11:59PM Pacific Standard Time on 17_AUGUST_2026.
+
+relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/github_servers_down_17august2026_p0.png
+
+relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/github_servers_down_17august2026_p1.png
+
+relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/github_servers_down_17august2026_p2.png
+
+relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/github_servers_down_17august2026_p3.png
+
+relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/github_servers_down_17august2026_p4.png
+
+* * *
+
+karbytes:
+
+Right now there seems to be an issue with server availability going on with GitHub that started within the past two hours which is preventing me from being able to update and access files in my GitHub repositories. I saw across various platforms that it's a widespread issue. Do you know what that is about?
+
+ChatGPT:
+
+[Worked for 30s]
+
+Yes—this is a confirmed, widespread GitHub-side incident, not something specific to your repositories or accounts.
+
+GitHub began investigating at **6:40 AM Pacific time on August 17**. Its latest report says:
+
+* GitHub’s web interface and API are returning errors on approximately **20% of requests**.
+
+* Raw-file and repository-archive downloads have approximately a **50% error rate**.
+
+* Pull requests, Issues, Actions, webhooks, Copilot, and some authentication systems are degraded.
+
+* GitHub is still investigating and **has not announced the root cause**.
+
+This directly explains your inability to view and update repository files. GitHub currently labels core Git operations as operational, so command-line pushes might sometimes work even while browser editing, API access, and raw-file retrieval fail. There is presently no indication that repository data has been lost.
+
+You can follow the [official GitHub incident report](https://www.githubstatus.com/incidents/zkxwbgr0cnmx). I would preserve your current work locally and avoid relying on the web editor until GitHub confirms recovery.
+
+karbytes:
+
+How long do you expect this outage to last?
+
+ChatGPT:
+
+[Worked for 23s]
+
+My best estimate is **another 1–4 hours**, with full stability likely later today. I would plan around several hours rather than several days.
+
+As of GitHub’s latest update at **7:31 AM Pacific time**, it was still investigating and had not identified or announced the root cause. That makes a precise ETA impossible. The breadth of the incident—web/API errors, roughly 50% raw-file failures, authentication trouble, Actions, and Copilot—suggests it may not be a 15-minute repair. On the other hand, core Git operations remain operational, which suggests the underlying repository data is probably healthy.
+
+A reasonable range is:
+
+* **Likely:** noticeable recovery within 1–3 hours; mostly stable within 2–6 hours.
+
+* **Worse case:** disruption continues into this afternoon if a database or shared-infrastructure problem caused cascading failures.
+
+* **Unlikely:** a multi-day outage.
+
+For `KARLINA_OBJECT_extension_pack_73`, I would keep every change and media file locally and postpone large browser-based uploads until the [GitHub incident page](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) says GitHub is monitoring or resolved.
+
+karbytes:
+
+For the time being, I'm trying to stay productive by saving files I've been working on or generating to one of my Protonmail accounts by periodically sending myself email messages containing those attached files.
+
+ChatGPT:
+
+[Worked for 16s]
+
+That is a sensible temporary off-site backup while GitHub is unstable. It gives newly generated files a second home without interrupting your work.
+
+A few ways to make it more reliable:
+
+* Continue making **local Git commits** normally; GitHub is only required when you push.
+
+* Give messages sortable subjects, such as `EP73_TEMP_BACKUP_17AUGUST2026_0745_PST`.
+
+* Include a plain-text manifest listing filenames, sizes, and what changed.
+
+* Generate SHA-256 checksums for important files: `sha256sum filename > filename.sha256`.
+
+* Keep large MP4 files locally or on external storage; email is better suited to text, HTML, source code, transcripts, and smaller images.
+
+* Remember that Inbox and Sent copies within one Proton account are still one service, not two independent backups.
+
+For now, **local working copy + local commits + Proton attachments** is a reasonably strong bridge until GitHub recovers.
+
+karbytes:
+
+As of 9:25AM Pacific Standard Time on 17_AUGUST_2026 GitHub appears to be working normally (at least for me). 
+
+ChatGPT:
+
+[Worked for 13s]
+
+That suggests the outage’s practical impact on your account lasted roughly **two to three hours**, fitting the earlier estimate. GitHub may still be recovering globally, but you can probably resume normal work.
+
+I would keep the Proton Mail backup routine through the morning and test one ordinary file update before attempting large MP4 uploads or extensive repository changes.
+
+
+
