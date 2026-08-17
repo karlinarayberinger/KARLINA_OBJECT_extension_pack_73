@@ -11146,7 +11146,6 @@ node_(3).
 
 [end preformatted_text]
 
-
 In the later 64-node `EPIC_KARBYTES_HIATUS_SUMMER_2026_NODES_LIST`, it becomes:
 
 [preformatted_text]
