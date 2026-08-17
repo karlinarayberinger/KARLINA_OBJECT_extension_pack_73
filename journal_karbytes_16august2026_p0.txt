@@ -48,6 +48,8 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karb
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_16august2026_p0.txt
 
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_16august2026_p1.txt
+
 https://raw.githubusercontent.com/informationcrystals/projects/main/github_informationcrystals_activity_according_to_informationcrystals_16august2026_p0.png
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/github_informationcrystals_activity_according_to_informationcrystals_16august2026_p1.png
@@ -197,6 +199,8 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web
 https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_14august2026_c.html
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_15august2026_a.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_16august2026_a.html
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_journal_karbytes_14august2026_a.html
 
