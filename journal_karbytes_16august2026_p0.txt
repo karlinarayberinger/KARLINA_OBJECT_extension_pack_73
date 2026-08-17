@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_16august2026_p0.txt
  * type: plain-text
- * date: 16_AUGUST_2026
+ * date: 17_AUGUST_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -15,6 +15,12 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/brea_and_kar
 https://raw.githubusercontent.com/informationcrystals/projects/main/burrow_interior_summer_eve_12august2026_p0.jpg
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/burrow_interior_summer_eve_12august2026_p1.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/charizard_gets_its_head_stuck_in_a_pipe_p0.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/charizard_gets_its_head_stuck_in_a_pipe_p1.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/charizard_gets_its_head_stuck_in_a_pipe_p2.jpg
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_generated_karbytes_fourteen_page_mythos_report_14august2026.html
 
@@ -49,6 +55,10 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karb
 https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_16august2026_p0.txt
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_16august2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_16august2026_p2.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_16august2026_p3.txt
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/github_informationcrystals_activity_according_to_informationcrystals_16august2026_p0.png
 
@@ -201,6 +211,10 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web
 https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_15august2026_a.html
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_16august2026_a.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_16august2026_b.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_17august2026_a.html
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_journal_karbytes_14august2026_a.html
 
