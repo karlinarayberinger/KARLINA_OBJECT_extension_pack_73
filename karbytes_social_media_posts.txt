@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 16_AUGUST_2026
+ * date: 17_AUGUST_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -239,3 +239,29 @@ On 16_AUGUST_2026 at approximately 7:30PM Pacific Standard Time, karbytes shared
 https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14august2026_c/
 
 (Because karbytes initially forgot to specify a featured image for the web page named chatgpt_karbytes_14august2026_c in the WordPress editor, Patreon used the image closest to the top of that page as the default featured image even after karbytes set the featured image to the image below that. karbytes noticed that Bluesky, by contrast, used the latest featured image rather than defaulting to an outdated image. Rather than settle for Patreon's selected default image for that post, karbytes uploaded the intended image (but doing that caused the image to appear full size on the Patreon page instead of a thumbnail-sized image)).
+
+* * *
+
+On 17_AUGUST_2026 at approximately 2:00AM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17august2026_a/
+
+* * *
+  
+On 17_AUGUST_2026 at approximately 7:30PM Pacific Standard Time, karbytes removed and then reshared the following karbytes-created web page as a social media post on karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14august2026_c/
+
+(The Patreon post thumbnail now displays the correct featured image of the WordPress dot Com web page it points to).
+
+* * *
+  
+On 17_AUGUST_2026 at approximately 7:30PM Pacific Standard Time, karbytes removed and then reshared the following karbytes-created web page as a social media post on karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17august2026_a/
+
+* * *
+
+On 17_AUGUST_2026 at approximately 7:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_17august2026_a/
