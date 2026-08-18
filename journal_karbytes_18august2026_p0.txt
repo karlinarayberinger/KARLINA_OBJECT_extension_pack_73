@@ -12,7 +12,7 @@ aforementioned_plain-text_file: https://raw.githubusercontent.com/karlinarayberi
 
 aforementioned_html_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16august2026_b/
 
-The original video file that I downloaded was approximately 126.2 megabytes in size and had a playtime duration of approximtely one hour. Even after I trimmed that video file down to approximately 32 megabytes (before compressing it), the audio quality dropped to an unacceptably poor "pixelated" quality after I tried compressing that trimmed video down to 25 megabytes or less. So I tried trimming the original video down to only 16 megabytes without compressing it (and that 15.3 megabyte video file ended up having a playtime of approximately 12 minutes (but can be set to loop indefinitely many times by the media player as a sleep aid or as a relaxation aid)).
+The original video file that I downloaded was approximately 126.2 megabytes in size and had a playtime duration of approximtely one hour. Even after I trimmed that video file down to approximately 32 megabytes (before compressing it), the audio quality dropped to an unacceptably poor "pixelated" quality after I tried compressing that trimmed video down to 25 megabytes or less. So I tried trimming the original video down to only 16 megabytes without compressing it (and that 16 megabyte video file ended up having a playtime of approximately 12 minutes (but can be set to loop indefinitely many times by the media player as a sleep aid or as a relaxation aid)).
 
 The acceptable-quality trimmed (and non-compressed) video has been incorporated into the aforementioned micro-directory of KARBYTES at the following URL.
 
