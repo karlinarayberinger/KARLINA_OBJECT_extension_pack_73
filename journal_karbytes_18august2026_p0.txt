@@ -16,7 +16,7 @@ The original video file that I downloaded was approximately 126.2 megabytes in s
 
 The acceptable-quality trimmed (and non-compressed) video has been incorporated into the aforementioned micro-directory of KARBYTES at the following URL.
 
-abridged_relaxation_video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/peaceful_rest_threesageswellness_for_hotels_downloaded_and_abridged_by_karbytes_18august2026.mp4
+abridged_relaxation_video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/peaceful_rest_video_threesageswellness_for_hotels_downloaded_and_abridged_by_karbytes_18august2026.mp4
 
 Along with that video are two screenshots of the website from which the video I downloaded was apparently originally sourced.
 
