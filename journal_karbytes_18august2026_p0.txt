@@ -1,0 +1,33 @@
+/**
+ * file: journal_karbytes_18august2026_p0.txt
+ * type: plain-text
+ * date: 18_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+After apparently finishing the plain-text transcript file at the following Uniform Resource Locator (URL), I thought I was ready to stop adding more files to the KARLINA_OBJECT_extension_pack_73 micro-directory until I happened upon a surprisingly effective relaxation soundtrack video which I accidentally fell asleep listening to while waiting for a web app to trim and/or compress that video file (which I found while browsing the Claremont Hotel website out of curiosity after having mentioned it in a recent lengthy HTML web page named chatgpt_karbytes_16august2026_b).
+
+aforementioned_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/chatgpt_karbytes_18august2026_p0.txt
+
+aforementioned_html_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16august2026_b/
+
+The original video file that I downloaded was approximately 126.2 megabytes in size and had a playtime duration of approximtely one hour. Even after I trimmed that video file down to approximately 32 megabytes (before compressing it), the audio quality dropped to an unacceptably poor "pixelated" quality after I tried compressing that trimmed video down to 25 megabytes or less. So I tried trimming the original video down to only 16 megabytes without compressing it (and that 15.3 megabyte video file ended up having a playtime of approximately 12 minutes (but can be set to loop indefinitely many times by the media player as a sleep aid or as a relaxation aid)).
+
+The acceptable-quality trimmed (and non-compressed) video has been incorporated into the aforementioned micro-directory of KARBYTES at the following URL.
+
+abridged_relaxation_video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/peaceful_rest_threesageswellness_for_hotels_downloaded_and_abridged_by_karbytes_18august2026.mp4
+
+Along with that video are two screenshots of the website from which the video I downloaded was apparently originally sourced.
+
+video_source_website: https://www.threesageswellness.com/
+
+video_source_website_screenshot: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/threesageswellness_for_hotels_information_p0.png
+
+video_source_website_screenshot: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/threesageswellness_for_hotels_information_p0.png
+
+claremont_hotel_website: https://claremontresortandclub.com/
+
+claremont_hotel_website_video_referencing_section: Oddly, that website section seemed to disappear within six hours of me visiting it (which was a section of the claremont_hotel_website labeled Wellness). That part of the website featured things about yoga classes and meditation/relaxation videos which could be accessed from placards in the hotel room.
+
+(As an aside, I feel strongly compelled to continue incorporating material into KARBYTES which is basically not explicitly licensed as public domain intellectual property and which is arguably even pirated material because, in the grand scheme of things (if one zooms out and takes a more cosmological view of everything), what I am doing is not trying to disemfranchise anyone, but rather, trying to eternally (or at least very long-term) preserve cultural artifacts (in digital form) which I think are worth remembering because they help to tell a more complete story of human civilization).
