@@ -24,7 +24,7 @@ video_source_website: https://www.threesageswellness.com/
 
 video_source_website_screenshot: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/threesageswellness_for_hotels_information_p0.png
 
-video_source_website_screenshot: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/threesageswellness_for_hotels_information_p0.png
+video_source_website_screenshot: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/threesageswellness_for_hotels_information_p1.png
 
 claremont_hotel_website: https://claremontresortandclub.com/
 
