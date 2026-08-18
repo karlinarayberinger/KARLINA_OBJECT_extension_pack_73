@@ -7,3 +7,11 @@
  */
 
 The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 17_AUGUST_2026 and 11:59PM Pacific Standard Time on 18_AUGUST_2026.
+
+* * *
+
+karbytes:
+
+Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_73/
+
+Also check for other discrepancies such as the visible text of hyperlinks not matching their target URLs, extra of missing forward slashes, et cetera. 
