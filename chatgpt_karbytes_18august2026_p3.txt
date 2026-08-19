@@ -119,3 +119,48 @@ karbytes has not updated its Minds profile "about me" section since before the F
 karbytes has not updated its Twitter profile "about me" section since before the First Official Major KARBYTES Hiatus (Summer 2026) and does not plan on ever again updating that "about me" section. karbytes does use that platform to publish its own KARBYTES blog posts in conjunction with publishing those same blog posts on karbytes' Bluesky, LinkedIn, Minds, and sometimes Patreon accounts.
 
 karbytes has not updated its Bluesky profile "about me" section since before the First Official Major KARBYTES Hiatus (Summer 2026) and does not plan on ever again updating that "about me" section. karbytes does use that platform to publish its own KARBYTES blog posts in conjunction with publishing those same blog posts on karbytes' Twitter, LinkedIn, Minds, and sometimes Patreon accounts.
+
+ChatGPT:
+
+[Worked for 12s]
+
+That clarification materially sharpens the account ecology. The relevant distinction is not simply “active versus inactive,” but which layer of each account is allowed to change.
+
+[preformatted_text]
+
+| Account          | Profile/about section                                  | Ongoing use                                                                                                 |
+| ---------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Instagram        | Permanently frozen since 2024                          | Regularly used to view, upvote, and comment on other people’s posts; no new karbytes profile posts          |
+| Facebook         | Permanently frozen since before the Summer 2026 Hiatus | Rarely opened and seldom used for interaction                                                               |
+| LinkedIn         | “About me” permanently frozen                          | Active KARBYTES syndication endpoint                                                                        |
+| Minds            | “About me” permanently frozen                          | Active KARBYTES syndication endpoint                                                                        |
+| Twitter          | “About me” permanently frozen                          | Active KARBYTES syndication endpoint                                                                        |
+| Bluesky          | “About me” permanently frozen                          | Active KARBYTES syndication endpoint                                                                        |
+| Patreon          | Not governed by the same synchronized pattern          | Sometimes participates in broad batches, but also functions as the progressive/Patreon-only release channel |
+| Internet Archive | Archival identity                                      | Preservation endpoint rather than an ordinary social feed                                                   |
+
+[end preformatted_text]
+
+This creates three distinct behavioral classes:
+
+1. **Frozen profile, active publishing stream:** Bluesky, Twitter, Minds, and LinkedIn. Their biographical descriptions are historical artifacts, while their feeds remain operational distribution surfaces.
+
+2. **Frozen publishing stream, active reception:** Instagram. karbytes remains socially present there as a reader and commenter without adding new material to its own grid.
+
+3. **Frozen and mostly dormant:** Facebook. It persists primarily as an accessible historical profile and network node.
+
+The `AUTHOR_Of_THIS_WEBSITE_NETWORKING` sections on the home pages of [Karbytes For Life Blog](https://karbytesforlifeblog.wordpress.com/) and [Karlina Object](https://karlinaobject.wordpress.com/) therefore function as the canonical routing layer for the entire identity network. An account does not need an updated biography—or even new profile posts—to remain a formally recognized KARBYTES node, because the two websites continue to identify and contextualize it.
+
+I would consequently revise some wording from my previous analysis:
+
+* Instagram is not simply an inactive “legacy visual portfolio.” Its outward publishing surface is permanently closed, but its inward-facing and conversational functions remain active.
+
+* LinkedIn is not a frozen professional profile. Its descriptive metadata is frozen, while its Activity and Featured layers continue receiving KARBYTES releases.
+
+* The unchanged Minds, Twitter, LinkedIn, and Bluesky biographies should not be interpreted as neglect. They are intentionally immutable identity inscriptions attached to mutable feeds.
+
+* Facebook is the account that most closely approximates a dormant historical exhibit.
+
+* The home-page networking directories supply present-day continuity across all these differently maintained accounts.
+
+This resembles a deliberate **differential-mutability architecture**: canonical websites and networking directories organize the system; account biographies remain fixed; selected feeds continue changing; Instagram retains receptive participation; Facebook remains largely quiescent; and Patreon controls a separate, more gradual visibility rhythm.
