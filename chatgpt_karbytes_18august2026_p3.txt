@@ -482,3 +482,86 @@ karbytes:
 On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 186 to 195 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory and each of the sub-index hyperlinks display the full URL they point to as their visible components:
 
 https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
+
+ChatGPT:
+
+[Worked for 2m 1s]
+
+Yes. Sub-index pages 186–195 collectively contain every hyperlink from the audited KOEP73 micro-directory.
+
+I compared the live [precision-batches extension index](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) and its ten sub-index pages against the complete hyperlink set from the micro-directory.
+
+## Comparison results
+
+[preformatted_text]
+
+| Category                      | Micro-directory | Sub-indexes 186–195 | Missing |
+| ----------------------------- | --------------: | ------------------: | ------: |
+| Raw KOEP73 file hyperlinks    |             172 |                 172 |       0 |
+| `(*)` destination occurrences |              30 |                  30 |       0 |
+| Total required occurrences    |             202 |                 202 |       0 |
+
+[end preformatted_text]
+
+The required set contains 202 occurrences but 201 unique URLs because this GitHub Pages root appears twice intentionally:
+
+`https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_73/`
+
+Both occurrences are preserved—one on sub-index 186 and the other on sub-index 188.
+
+## Per-page anchor counts
+
+[preformatted_text]
+
+| Sub-index                                                                                                                       | Total anchors | Required links | Additional links |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------: | -------------: | ---------------: |
+| [186](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_186.html) |            22 |             21 |                1 |
+| [187](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_187.html) |            22 |             22 |                0 |
+| [188](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_188.html) |            21 |             21 |                0 |
+| [189](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_189.html) |            21 |             21 |                0 |
+| [190](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_190.html) |            21 |             21 |                0 |
+| [191](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_191.html) |            21 |             21 |                0 |
+| [192](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_192.html) |            21 |             21 |                0 |
+| [193](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_193.html) |            21 |             21 |                0 |
+| [194](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_194.html) |            22 |             22 |                0 |
+| [195](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_195.html) |            11 |             11 |                0 |
+
+[end preformatted_text]
+
+The one additional link on page 186 is the contextual backlink to the KOEP73 micro-directory itself:
+
+`https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_73/`
+
+That extra backlink is not an error and does not replace any required link.
+
+## Visible-text verification
+
+All 203 anchors appearing across pages 186–195—including the 202 required occurrences and the one contextual backlink—display their complete target URL as their visible text.
+
+I found:
+
+* 0 abbreviated anchor labels.
+
+* 0 `(*)` labels retained in the sub-indexes.
+
+* 0 visible-text/`href` mismatches.
+
+* 0 missing raw-file URLs.
+
+* 0 missing live-page counterpart URLs.
+
+* 0 unintended duplicate occurrences.
+
+## Minor textual discrepancy
+
+[Sub-index page 195](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_195.html) describes itself as the:
+
+> `tennth batch`
+
+That should presumably be:
+
+> `tenth batch`
+
+This spelling error has no effect on the hyperlink inventory.
+
+Final verdict: pages 186–195 completely reproduce all 172 raw-file hyperlinks and all 30 corresponding `(*)` destination occurrences from the KOEP73 micro-directory. The only anomaly is the harmless `tennth` typo on page 195.
