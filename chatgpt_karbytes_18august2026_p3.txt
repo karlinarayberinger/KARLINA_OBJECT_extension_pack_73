@@ -103,3 +103,19 @@ Conceptually, it captures the pre-response state of this archival node. The pres
 * KOEP72 says several pages whose slugs contain `01august2026` were shared during 19–29_JULY. That could reflect later renaming or date-independent slug assignment, but the chronology is unexplained within the log itself.
 
 * Within the portions visible in the screenshots, I found no ordering or title discrepancy between the logged 18_AUGUST batch and the Minds, X, LinkedIn, or Patreon evidence.
+
+karbytes:
+
+All the social media or Internet-based accounts featured in those images are accessible from the home page of Karbytes For Life Blog dot WordPress dot Com and from the home page of Karlina Object dot WordPress dot Com in the section of that web page titled AUTHOR_Of_THIS_WEBSITE_NETWORKING.
+
+karbytes has not updated its Instagram profile since the year 2024 and does not plan on ever again updating that profile. karbytes does still regularly use that Instagram account to view, upvote, and comment on other people's Instagram posts.
+
+karbytes has not updated its Facebook profile since before the First Official Major KARBYTES Hiatus (Summer 2026) and does not plan on ever again updating that profile. karbytes very rarely logs into its Facebook account and usually does not interact with other users much through that platform.
+
+karbytes has not updated its LinkedIn profile "about me" section since before the First Official Major KARBYTES Hiatus (Summer 2026) and does not plan on ever again updating that "about me" section. karbytes does use that platform to publish its own KARBYTES blog posts in conjunction with publishing those same blog posts on karbytes' Bluesky, Minds, Twitter, and sometimes Patreon accounts.
+
+karbytes has not updated its Minds profile "about me" section since before the First Official Major KARBYTES Hiatus (Summer 2026) and does not plan on ever again updating that "about me" section. karbytes does use that platform to publish its own KARBYTES blog posts in conjunction with publishing those same blog posts on karbytes' Bluesky, LinkedIn, Twitter, and sometimes Patreon accounts.
+
+karbytes has not updated its Twitter profile "about me" section since before the First Official Major KARBYTES Hiatus (Summer 2026) and does not plan on ever again updating that "about me" section. karbytes does use that platform to publish its own KARBYTES blog posts in conjunction with publishing those same blog posts on karbytes' Bluesky, LinkedIn, Minds, and sometimes Patreon accounts.
+
+karbytes has not updated its Bluesky profile "about me" section since before the First Official Major KARBYTES Hiatus (Summer 2026) and does not plan on ever again updating that "about me" section. karbytes does use that platform to publish its own KARBYTES blog posts in conjunction with publishing those same blog posts on karbytes' Twitter, LinkedIn, Minds, and sometimes Patreon accounts.
