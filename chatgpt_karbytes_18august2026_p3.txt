@@ -397,3 +397,88 @@ https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJ
 Also verify whether or not every hyperlink on that micro-directory web page whose visible text is simply an asterisk enclosed in parentheses links to the correct web page.
 
 Finally, point out any discrepancies you notice while completing the requested task.
+
+ChatGPT:
+
+[Worked for 4m 41s]
+
+I found no substantive hyperlink errors on the [KOEP73 micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_73/).
+
+I compared the live page, last updated 19_AUGUST_2026, with the repository’s current `main` branch at commit [`bd668892`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/commit/bd66889237155a7a6a514e831ea5425d5cc72aa9).
+
+## Raw GitHub-file results
+
+[preformatted_text]
+
+| Check                                           | Result |
+| ----------------------------------------------- | -----: |
+| Files in the repository                         |    172 |
+| Full raw-file hyperlinks on the micro-directory |    172 |
+| Unique raw-file targets                         |    172 |
+| Repository files missing from the page          |      0 |
+| Page targets absent from the repository         |      0 |
+| Duplicate raw-file targets                      |      0 |
+| Visible URL differing from its actual `href`    |      0 |
+| Wrong repository, branch or filename targets    |      0 |
+
+[end preformatted_text]
+
+Every repository file has exactly one corresponding full-URL hyperlink of the required form:
+
+`https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/[filename]`
+
+The visible text of every raw-file hyperlink is identical to its underlying target. Because every target matches an entry and download URL in the current GitHub tree, I found no raw links that should return a file-not-found response and no links pointing to the wrong file.
+
+## `(*)` hyperlink results
+
+The page contains 30 `(*)` hyperlinks.
+
+* All WordPress `(*)` links use the page name corresponding to their paired `unlisted_web_page_...html` source file.
+
+* All tested surface-web destinations returned HTTP 200.
+
+* The GitHub Pages links point to the appropriate deployed sites or reports.
+
+* The three Wayback precision-batch source files point to their corresponding GitHub Pages sites.
+
+* The full-genome, M-DISC, social-media-log and Big Green Thing source files point to their correct WordPress pages.
+
+* The two onion-source files use the onion addresses stated inside the respective source files.
+
+One potentially confusing pairing is nevertheless correct:
+
+* `chatgpt_generated_karbytes_recursive_web_traversal_report_14august2026.html` points to the repository’s GitHub Pages root.
+
+* `index.html` also points to that root.
+
+Those two repository files are byte-for-byte identical, so the shared destination is intentional rather than a misdirected or duplicate `(*)` link.
+
+I verified that the two onion targets match the addresses declared inside their paired HTML source files. I could not independently test their current live availability without a Tor connection; moreover, one source states that its onion service is available only while the hosting local machine is operating. That is a reachability limitation, not a detected mapping error.
+
+## Minor ordering discrepancy
+
+The only discrepancy I found is cosmetic. Near the end of the micro-directory, the page orders these three files as:
+
+1. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_index.html`
+
+2. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_0.html`
+
+3. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html`
+
+GitHub’s filename ordering places them as:
+
+1. `...extension_0.html`
+
+2. `...extension_1.html`
+
+3. `...index.html`
+
+This does not affect completeness or hyperlink correctness. It is only an ordering difference—and it may be intentionally placing the primary index before its two extensions.
+
+Final verdict: all 172 raw-file links and all 30 `(*)` mappings are correct. There are no missing repository files, extra targets, duplicate raw links, incorrect filenames, or misdirected surface-web pages.
+
+karbytes:
+
+On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 186 to 195 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory and each of the sub-index hyperlinks display the full URL they point to as their visible components:
+
+https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
