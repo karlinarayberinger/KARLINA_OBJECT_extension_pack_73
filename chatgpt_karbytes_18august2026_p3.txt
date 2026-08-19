@@ -8,6 +8,8 @@
 
 The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 17_AUGUST_2026 and 11:59PM Pacific Standard Time on 19_AUGUST_2026.
 
+relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/chatgpt_karbytes_18august2026_p2.txt
+
 * * *
 
 karbytes:
