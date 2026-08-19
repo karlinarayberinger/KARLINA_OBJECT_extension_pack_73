@@ -164,3 +164,9 @@ I would consequently revise some wording from my previous analysis:
 * The home-page networking directories supply present-day continuity across all these differently maintained accounts.
 
 This resembles a deliberate **differential-mutability architecture**: canonical websites and networking directories organize the system; account biographies remain fixed; selected feeds continue changing; Instagram retains receptive participation; Facebook remains largely quiescent; and Patreon controls a separate, more gradual visibility rhythm.
+
+karbytes:
+
+Carefully read each of the KARBYTES blog posts which are mentioned in the karbytes_social_media_posts_koep73 web page and write a detailed description of each of those web pages (which may include your own elaborating commentary).
+
+After that, distinguish what makes the Patreon-only KARBYTES blog posts different from the KARBYTES blog posts which were shared on other social media platforms.
