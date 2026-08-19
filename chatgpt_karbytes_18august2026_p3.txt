@@ -387,3 +387,13 @@ My favorite is [chatgpt_karbytes_08august2026_d](https://karbytesforlifeblog.wor
 My least favorite is [chatgpt_karbytes_14august2026_b](https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14august2026_b/). It is technically impressive, but much of its substance concerns the mechanics of an enormous recursive web traversal and the report produced from it. Compared with the other pages, its identity feels more procedural and derivative: the most compelling ideas largely originate in the pages it visits. It therefore has the lowest ratio of distinctive insight to reading effort for me.
 
 That is not a judgment that page B lacks archival value—it preserves an important Work Mode experiment—but it is the page I would be least inclined to reread for its own sake. My runner-up favorite would be [journal_karbytes_15august2026_b](https://karbytesforlifeblog.wordpress.com/journal_karbytes_15august2026_b/) because of how effectively it joins the formal EPIC graph to the physically demanding 11–12 August trek.
+
+karbytes:
+
+Examine the following micro-directory web page to determine whether or not each hyperlink which is supposed to link to a raw GitHub file inside of the GitHub repository named KARLINA_OBJECT_extention_pack_73 actually links to the correct file (and ensure that every file inside of that GitHub repository has a corresponding full-URL hyperlink on that micro-directory web page):
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_73/
+
+Also verify whether or not every hyperlink on that micro-directory web page whose visible text is simply an asterisk enclosed in parentheses links to the correct web page.
+
+Finally, point out any discrepancies you notice while completing the requested task.
